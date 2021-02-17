@@ -1,18 +1,17 @@
 <script>
 	//https://flaviocopes.com/svelte-import-components/
+	import PlayPause from './mainblocks/mini blocks/playPause.svelte';
+
 </script>
 
 <main>
-	
+	<playPause>
+		
+	</playPause>
 </main>
 
 <style>
-	main {
-		
-		width:100%; 
-		height:100%;
-		background-color: #121212;
-	}
+
 
 	
 
